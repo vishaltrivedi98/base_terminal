@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "41746522298",
+    "firebase_url": "https://base-terminal.firebaseio.com",
+    "project_id": "base-terminal",
+    "storage_bucket": "base-terminal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41746522298:android:3087f6c6f6e1f68a51e283",
+        "android_client_info": {
+          "package_name": "com.example.bash_terminal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41746522298-520hl69ts7k2uoq4ecu8fs2h5toi4ia9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCARwL-j0K-syMmaa_Eh4vGbbh6-si9sK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41746522298-520hl69ts7k2uoq4ecu8fs2h5toi4ia9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
